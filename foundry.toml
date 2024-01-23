@@ -20,6 +20,7 @@ verbosity = 4
 [rpc_endpoints]
 arbitrum_mainnet = "${ARBITRUM_MAINNET_RPC}"
 eth_mainnet = "${ETH_MAINNET_RPC}"
+blast_testnet = "${BLAST_TESTNET_RPC}"
 
 [etherscan]
 arbitrum = {key = "${ARBISCAN_KEY}", url = "https://api.arbiscan.io/api"}
