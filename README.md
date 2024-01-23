@@ -1,17 +1,16 @@
-## Foundry
+## Foundry hackathon experience inspired starter
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+Deleting things is easier than installing them, so this starter goal is to be bulky but cover most potential projects
 
-Foundry consists of:
+## Installed libraries
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+* Solmate
+* Open Zeppelin contracts
 
-## Documentation
+## Mocks
 
-https://book.getfoundry.sh/
+* ERC20: public mint, burn, permit
+* ERC721: enumerable, public mint, burn
 
 ## Usage
 
